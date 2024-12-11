@@ -1,4 +1,4 @@
-##Pizza Sales Report Dashboard
+#Pizza Sales Report Dashboard
 
 ## 1. Overview
 Provide a brief description of your project, including its purpose, key features, and what you aim to achieve with the Power BI reports and dashboards.
