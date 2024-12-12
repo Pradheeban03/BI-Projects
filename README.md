@@ -1,31 +1,30 @@
-# Pizza Sales Dashboard - Power BI Project
+Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+Project Objective
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
 
-## **1. Overview**
-This repository contains a Power BI project designed to analyze and visualize pizza sales data. The project includes an interactive dashboard that helps businesses monitor sales performance, identify top-selling pizza types, track customer demographics, and measure seasonal trends.
+Dataset used
+Vrinda Store Data
+Questions (KPIs)
+Compare the sales and orders using single chart.
+Which month got the highest sales and orders?
+Who purchased more - Men or Women?
+What are different order status in 2022?
+List top 10 states contributingto the sales?
+Relation between age and gender based on number of orders.
+Which Channel is contributing maximum to the sales?
+Highest selling category?
+Process
+Verify data for any missing values and anomalies, and sort out the same.
+Made sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot tables according to the questions asked.
+Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
+Dashboard
+Alt text of the image
 
-The Pizza Sales Dashboard uses various Power BI features, including custom DAX measures, Power Query transformations, and interactive visuals to deliver insights from the dataset.
-
----
-
-## **2. Contents**
-- **Reports**: Power BI report files (.pbix) containing interactive dashboards and visualizations.
-- **Data**: Sample pizza sales dataset or links to the data sources used in the project.
-- **Scripts**: Power Query transformations, DAX expressions, and calculated columns used in the dashboard.
-- **Documentation**: Additional information regarding the project, data model, and setup instructions.
-
----
-
-## **3. Getting Started**
-
-### **3.1 Prerequisites**
-To get started with this project, you will need the following:
-- **Power BI Desktop** (latest version recommended). You can download it from [here](https://powerbi.microsoft.com/desktop/).
-- **Data Source**: The project uses a sample pizza sales dataset, which can be found in the `Data` folder. If you want to use your own data, make sure it follows a similar structure.
-
----
-
-### **3.2 Installation**
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/pizza-sales-dashboard.git
+Project Insight
+Women customers are more likely to buy products compared to men (~65%).
+The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+Final Conclusion:
+To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
