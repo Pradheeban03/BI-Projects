@@ -30,7 +30,10 @@ Annual Pizza sales report for 2015. So that, to analyze the report and understan
 
 ## **Dashboard**
 
+## **Home Page**
 <img width="614" alt="Screenshot 2024-12-12 200408" src="https://github.com/user-attachments/assets/3f492bd2-d1b1-4def-8a36-868e714ce09a" />
+
+## **Sales Page**
 <img width="612" alt="Screenshot 2024-12-12 200450" src="https://github.com/user-attachments/assets/1050aa41-fe9b-4d47-a7c2-0d0295092e3b" />
 
 
