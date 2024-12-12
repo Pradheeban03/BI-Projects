@@ -5,7 +5,7 @@
 Annual Pizza sales report for 2015. So that, to analyze the report and understanding the revenue and profit sales margin to improve sales.
 
 ## **Dataset used**
-- <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data.xlsx">Vrinda Store Data</a>
+- <a href="https://github.com/Pradheeban03/BI-Projects/blob/main/pizza_sales.csv">Pizza Sales Data</a>
 
 ## **Questions (KPIs)**
 
