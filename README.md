@@ -44,10 +44,20 @@ Annual Pizza sales report for 2015. So that, to analyze the report and understan
 
 ## **Project Insight**
 
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- Top Revenue Generator: The Thai Chicken Pizza contributes the highest revenue among all pizzas.
+- Highest Quantity Sold: The Classic Deluxe Pizza leads in total quantity sold and total orders.
+- Lowest Revenue and Sales: The Brie Carra Pizza is the worst-performing pizza in revenue, quantity, and orders.
+- Top Revenue Pizzas: The Spicy Italian Pizza (35K) and Italian Pizza (33K) are the highest revenue contributors.
+- Best-Selling Pizzas by Quantity: The Sicilian Pizza and Spicy Italian Pizza sold approximately 1.9K units each.
+- Bottom Quantity and Revenue: The Brie Carra Pizza and Calabrese Pizza struggle with sales and revenue generation.
+- Average Order Value: The average order value is 22.92, with customers ordering 1.32 pizzas per order, indicating potential 
+  for increasing order sizes.
+
+
+
+
+
+
 
 
 
