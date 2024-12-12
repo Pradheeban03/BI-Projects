@@ -2,7 +2,7 @@
 
 ## **Project Objective**
 
-Annual sales report for 2015. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
+Annual Pizza sales report for 2015. So that, to analyze the report and understanding the revenue and profit sales margin to improve sales.
 
 ## **Dataset used**
 - <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data.xlsx">Vrinda Store Data</a>
@@ -10,13 +10,13 @@ Annual sales report for 2015. So that, the owner of the Vrinda store can underst
 ## **Questions (KPIs)**
 
 - Total Revenue : The Sum of Total price of all pizza orders.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
+- Average Order Value: The average amount spent per order ,calculated by dividing the total revenue by the total number of orders.
+- Total pizzas Sold:The sum of the quantities of all pizzas sold.
+- Total Orders : The total number of orders placed.
+- Average  pizza per Order: The average number of pizzas sold per order ,calculated by dividing the total number of pizzas by the total number of orders.
+- Daily and Monthly trends for total orders of the pizza sales.
+- Total Pizzas sold by pizza category.
+- Top and Bottem 5 Best Sellers by Revenue,Total Quantity and Total orders.
 
 
 
