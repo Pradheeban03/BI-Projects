@@ -26,6 +26,8 @@ Annual Pizza sales report for 2015. So that, to analyze the report and understan
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.
+<img width="614" alt="Screenshot 2024-12-12 200408" src="https://github.com/user-attachments/assets/3f492bd2-d1b1-4def-8a36-868e714ce09a" />
+<img width="612" alt="Screenshot 2024-12-12 200450" src="https://github.com/user-attachments/assets/1050aa41-fe9b-4d47-a7c2-0d0295092e3b" />
 
 
 
