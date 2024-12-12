@@ -63,6 +63,6 @@ Annual Pizza sales report for 2015. So that, to analyze the report and understan
 
 ## **Final Conclusion:**
 
-Tiered Pricing: Offer tiered prices for combos depending on the pizzas selected (e.g., premium options like Thai Chicken or Spicy Italian may have a slightly higher price point).
+To improve the sales, Offer tiered prices for combos depending on the pizzas selected (e.g., premium options like Thai Chicken or Spicy Italian may have a slightly higher price point).
 Highlight Discounts: Show the discount prominently for adding low-performing pizzas to encourage trials.
 Dynamic Recommendations: Use data to recommend low-selling pizzas during the selection process (e.g., “Add a Brie Carra Pizza for just $5!”).
