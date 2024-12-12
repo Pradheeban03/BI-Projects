@@ -1,4 +1,4 @@
-# Pizza-Sales-Data-Analysis (Interactive Dashboard creation using Power BI)
+# Pizza-Sales-Report-Data-Analysis (Interactive Dashboard creation using Power BI)
 
 ## **Project Objective**
 
