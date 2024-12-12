@@ -27,7 +27,7 @@ Annual Pizza sales report for 2015. So that, to analyze the report and understan
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive</a> and dynamic.
 
-- Dashboard File Here<a href="https://github.com/Pradheeban03/BI-Projects/blob/main/pizza%20sales.pbix">
+- <a href="https://github.com/Pradheeban03/BI-Projects/blob/main/pizza%20sales.pbix">Dashboard File Here</a>
 
 
 ## **Dashboard**
